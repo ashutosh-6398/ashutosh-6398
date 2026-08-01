@@ -117,6 +117,16 @@ Current Goals: Building enterprise-grade GenAI systems & open-source AI tools
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ashutosh-6398&theme=tokyonight&no-bg=true&margin-w=15&row=1&column=6" alt="Ashutosh's GitHub Trophies" />
+  </a>
+</div>
+
+---
+
 ### 📈 GitHub Analytics
 
 <div align="center">
